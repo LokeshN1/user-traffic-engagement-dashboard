@@ -1,5 +1,9 @@
 # User Traffic & Engagement Dashboard (Last 30 Days)
 
+## Tableau Public Dashboard
+
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/lokesh.negi/viz/userTrafficEng_Dashboard/Dashboard?publish=yes)
+
 ![User Traffic & Engagement Dashboard](screenshots/Dashboard.png)
 
 ## Project Overview
